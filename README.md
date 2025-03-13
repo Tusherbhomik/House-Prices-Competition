@@ -27,6 +27,7 @@ I have successfully completed this course! 🎉
 
 ## 🔗 Useful Links
 - 📚 [Course Link](https://www.kaggle.com/learn/intro-to-machine-learning)  
+- 📚 [Course Link](https://www.kaggle.com/learn/intermediate-machine-learning) 
 - 📝 [My Kaggle Profile](https://www.kaggle.com/tusherbhomik)  
 
 ---
